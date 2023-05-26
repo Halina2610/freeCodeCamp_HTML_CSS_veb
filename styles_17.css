@@ -140,7 +140,7 @@ footer {
   background-color: #e8e8e8;
 }
 
-@media {
+@media screen {
   #nav-bar {
     position: absolute;
     min-width: 20px;
